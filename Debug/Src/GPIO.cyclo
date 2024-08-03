@@ -1,0 +1,8 @@
+../Inc/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Inc/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Src/GPIO.c:22:6:GPIO_Pin_Init	2
+../Src/GPIO.c:44:6:GPIO_ReadFromInputPin	1
+../Src/GPIO.c:60:6:GPIO_WriteToOutputPin	2
+../Src/GPIO.c:80:6:GPIO_WriteToOutputPort	1
+../Src/GPIO.c:92:6:GPIO_Interrupt_Setup	8
+../Src/GPIO.c:148:5:GPIO_ClockControl	23
